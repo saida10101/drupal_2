@@ -24,10 +24,15 @@
         "drupal/core-recommended": "^11.2",
         "drupal/devel": "^5.4",
         "drupal/ds": "^3.30",
+        "drupal/entity_reference_revisions": "^1.12",
         "drupal/field_group": "^4.0",
         "drupal/focal_point": "^2.1",
         "drupal/gin": "^5.0",
         "drupal/gin_login": "^2.1",
+        "drupal/link_attributes": "^2.1",
+        "drupal/paragraphs": "^1.19",
+        "drupal/pathauto": "^1.14",
+        "drupal/token": "^1.16",
         "drush/drush": "^13.6"
     },
     "conflict": {

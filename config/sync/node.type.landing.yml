@@ -1,0 +1,18 @@
+uuid: 0a9845e2-8d5b-47cb-b210-0867deadfc98
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: Landing
+type: landing
+description: null
+help: null
+new_revision: true
+preview_mode: 1
+display_submitted: true

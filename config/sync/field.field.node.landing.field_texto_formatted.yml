@@ -1,0 +1,22 @@
+uuid: 8b948497-0d5f-4095-921e-d1f2471cfae5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_texto_formatted
+    - node.type.landing
+  module:
+    - text
+id: node.landing.field_texto_formatted
+field_name: field_texto_formatted
+entity_type: node
+bundle: landing
+label: Texto_formatted
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  allowed_formats: {  }
+field_type: text_long
